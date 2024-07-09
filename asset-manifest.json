@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amina/static/css/main.8430d92f.css",
+    "main.js": "/amina/static/js/main.fa68cbf0.js",
+    "static/js/453.4c342c60.chunk.js": "/amina/static/js/453.4c342c60.chunk.js",
+    "index.html": "/amina/index.html",
+    "main.8430d92f.css.map": "/amina/static/css/main.8430d92f.css.map",
+    "main.fa68cbf0.js.map": "/amina/static/js/main.fa68cbf0.js.map",
+    "453.4c342c60.chunk.js.map": "/amina/static/js/453.4c342c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8430d92f.css",
+    "static/js/main.fa68cbf0.js"
+  ]
+}
